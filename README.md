@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🐅 AlryC
 
-<!--
-**AlryC/AlryC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`C Developer`
 
-Here are some ideas to get you started:
+I'm a **C Developer**. Currently I'm learning Embedded C Development for STM32 but I enjoy a little bit of everything. My legal name is *Oleksandr* but you can call me **Alex**. *Feel free* to [contact me](#-contact-me) if you want to offer a *partnership* or something else.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+<img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/embeddedc/embeddedc-original.svg" alt="embeddedc" width="45" height="45"/>
+<img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
+
+<br />
+
+#
+
+### 📊 Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlryC?theme=dark&font=Fira%20Code)
+
+#
+
+### 📧 Contact Me
+- 💬 [Telegram](https://t.me/alry_c)
+- 📬 [Email](mailto:alexander_riabovol@proton.me)
